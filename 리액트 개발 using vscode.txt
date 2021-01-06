@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.18363.1256]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\test_pc>cd C:\Users\test_pc\Desktop\developer nameon\reactjs
+
+C:\Users\test_pc\Desktop\developer nameon\reactjs>npx create-react-app
+npx: installed 67 in 11.252s
+Please specify the project directory:
+  create-react-app <project-directory>
+
+For example:
+  create-react-app my-react-app
+
+Run create-react-app --help to see all options.
+
+C:\Users\test_pc\Desktop\developer nameon\reactjs>npm start
+
